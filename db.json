@@ -4,25 +4,25 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 1
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 1
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 1
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 1
     },
     {
       "id": 5,
@@ -46,7 +46,25 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 2
+    },
+    {
+      "name": ",mnbv",
+      "image": "kjhgfd",
+      "likes": 1,
+      "id": 9
+    },
+    {
+      "name": "Bear",
+      "image": "https://cheetahclass.files.wordpress.com/2014/04/toys.jpg",
+      "likes": 1,
+      "id": 10
+    },
+    {
+      "name": "Robot",
+      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.thechosenprime.com%2Fassets%2Fimages%2Fbandai%2Faction%2520toys%2Fmr05%2520cement%2520robo%2Fmr05-cementrobo-02.jpg&f=1&nofb=1",
+      "likes": 7,
+      "id": 11
     }
   ]
 }
